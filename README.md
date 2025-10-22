@@ -19,13 +19,25 @@ A project developed by group 4 in CS250, MedTrack is an app that helps users kee
   
 - Weekly Schedule Page
   - Displays the user's weekly medication schedule
+ 
 
-## Project Progress
+
+--------------------------------------------------------------------------------------------------------
+
+## Project Progress and Details
 
 Basically complete front-end coded in React and CSS.
 
 Requires backend support, most likely with a database with Firebase and cross-playform deployment with Firebase Hosting.
 
+IMPORTANT: You need to have these packages installed: react, react-dom, lucide-react
+You can install these by running the following commands in the terminal for your project folder
+
+npm install react react-dom
+npm install lucide-react
+
+
+--------------------------------------------------------------------------------------------------------
 
 ## Available Scripts
 
