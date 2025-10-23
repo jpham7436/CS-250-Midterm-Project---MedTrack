@@ -34,6 +34,7 @@ IMPORTANT: You need to have these packages installed: react, react-dom, lucide-r
 You can install these by running the following commands in the terminal for your project folder
 
 npm install react react-dom
+
 npm install lucide-react
 
 
